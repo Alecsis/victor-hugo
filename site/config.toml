@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Hello Friend NG"
+title   = "Alexis F."
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "I share with you my recent discoveries !"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -94,41 +94,41 @@ disableHugoGeneratorInject = false
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
 
-  [params.portrait]
-    path = "/img/image.jpg"
-    alt = "Portrait"
+#   [params.portrait]
+#     path = "/images/avatar.png"
+#     alt = "Portrait"
 
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/Alecsi_"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:alexisfabre.dev@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/Alecsis"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/alexis-fabre/"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+#   [[params.social]]
+#     name = "stackoverflow"
+#     url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = ""
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#   [languages.fr]
+#     subtitle  = "Hello Friend NG Theme"
+#     weight    = 2
+#     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
