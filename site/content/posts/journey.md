@@ -1,5 +1,5 @@
 ---
-title: Journey
+title: "Reverse write-up : j0urn3y"
 date: 2020-05-17T17:56:55.217Z
 tags:
   - Walkthrough
