@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "A simple cyersecurity blog."
   keywords = ""
   images = [""]
 
@@ -72,7 +72,7 @@ disableHugoGeneratorInject = false
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false  # Set "text-align: justify" to .content.
+  justifyContent = true  # Set "text-align: justify" to .content.
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
