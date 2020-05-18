@@ -4,6 +4,8 @@ date: 2020-05-18T11:49:31.846Z
 tags:
   - Reverse
   - Write-up
+  - Gdb
+  - Ghidra
 ---
 <!--StartFragment-->
 
