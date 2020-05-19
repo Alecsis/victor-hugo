@@ -1,5 +1,5 @@
 ---
-title: "DVWA write-up : file inclusion - low"
+title: "DVWA write-up : File inclusion - low"
 date: 2020-05-19T08:11:17.218Z
 tags:
   - DVWA
