@@ -1,5 +1,5 @@
 ---
-title: "DVWA write-up : Command Injection - low"
+title: "DVWA write-up : SQL Blind injection - low"
 date: 2020-05-19T12:10:04.401Z
 tags:
   - DVWA
