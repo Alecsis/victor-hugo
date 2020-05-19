@@ -1,5 +1,5 @@
 ---
-title: "DVWA write-up : Bruteforce"
+title: "DVWA write-up : Bruteforce - low"
 date: 2020-05-18T16:48:20.855Z
 tags:
   - DVWA
