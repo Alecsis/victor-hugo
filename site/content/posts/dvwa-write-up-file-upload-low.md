@@ -1,5 +1,5 @@
 ---
-title: "DVWA write-up : file upload - low"
+title: "DVWA write-up : File upload - low"
 date: 2020-05-19T08:38:56.052Z
 tags:
   - DVWA
