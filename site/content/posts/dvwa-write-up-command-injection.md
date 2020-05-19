@@ -1,5 +1,5 @@
 ---
-title: "DVWA write-up : Command Injection"
+title: "DVWA write-up : Command Injection - low"
 date: 2020-05-18T17:13:00.880Z
 tags:
   - DVWA
